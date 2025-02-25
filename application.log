@@ -1,0 +1,8 @@
+Hello world
+error cok
+┌──────────┬────────────┐
+│ (index)  │ Values     │
+├──────────┼────────────┤
+│ firsName │ 'Eko'      │
+│ lastName │ 'Khannedy' │
+└──────────┴────────────┘
