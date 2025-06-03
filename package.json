@@ -1,0 +1,13 @@
+{
+  "name": "udemy-node",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "express": "^4.8.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
